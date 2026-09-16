@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mileage Tracker</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_add_entry">Add Entry</string>
+    <string name="nav_vehicles">My Vehicles</string>
+    <string name="summary_total_km">Total Distance</string>
+    <string name="summary_petrol_liters">Petrol Filled</string>
+    <string name="summary_diesel_liters">Diesel Filled</string>
+    <string name="summary_total_spent">Total Fuel Cost</string>
+    <string name="summary_avg_mileage">Avg Mileage</string>
+    <string name="fuel_type_petrol">Petrol</string>
+    <string name="fuel_type_diesel">Diesel</string>
+    <string name="vehicle_type_car">Car</string>
+    <string name="vehicle_type_bike">Bike</string>
+</resources>

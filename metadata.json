@@ -1,0 +1,6 @@
+{
+  "name": "Mileage Tracker",
+  "description": "Track vehicle mileage, fuel consumption for petrol and diesel, and manage car and bike logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
